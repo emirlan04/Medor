@@ -1,0 +1,7 @@
+.navcolor{
+    background-color: rgb(31, 28, 28);
+}
+.col{
+    display: flex;
+    justify-content: space-around;
+}
